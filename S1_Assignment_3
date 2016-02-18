@@ -1,0 +1,12 @@
+<html>
+	<head>
+	<title>
+	Superscript and Subscript
+	</title>
+	</head>
+	<h1>Examples of Superscript and Subscript</h1>
+	<p>
+	2<sup>2</sup> = 4. 2 raised to the power of 2 is 4 <br />
+	The pollution levels of CO<sub>2</sub> is greater than the global levels.
+	</p>
+</html>
